@@ -278,7 +278,7 @@ Minimum:
 
 ## 👩‍💻 Author
 
-**Dua Shehnaz**
+**Shehnaz Begum**
 
 GitHub:
 https://github.com/D-Shehnaz
