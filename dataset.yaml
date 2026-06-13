@@ -1,0 +1,12 @@
+path: C:/Users/Mega Providers/Desktop/dip_yolo/dataset_cnn/images
+
+train: train
+val: val
+
+names:
+  0: cardboard
+  1: glass
+  2: metal
+  3: paper
+  4: plastic
+  5: trash
